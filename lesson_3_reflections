@@ -31,4 +31,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If I choose to do so in a separate branch, I am intended to go through a test when I
+    am working alone, or to make sure my changes won't disturb others' work when collaberating.
